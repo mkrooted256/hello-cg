@@ -9,6 +9,6 @@ Implemented for now:
 - [x] Postprocessing classes
   - [x] Simple antialiasing (it works really sad)
   - [x] Sliding average filter
-  - [] Filter with configurable weights \
+  - [ ] Filter with configurable weights
 
 Migrated from https://github.com/mkrooted256/undergrad-work/tree/term6/6-graphics/raytracing
