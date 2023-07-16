@@ -11,6 +11,16 @@ Implemented for now:
   - [x] Sliding average filter
   - [ ] Filter with configurable weights
 
+## Todo
+- speculars, emissive, anisatropic shading
+- textures (sometime)
+- CUBES and meshes (sometime)
+- transparency with refraction
+- reflections
+- skybox
+- B-tree for efficient scene traversing
+- look up some modern denoising techniques 
+
 ## Sample output
 - No postprocessing
 
